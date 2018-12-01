@@ -1,4 +1,5 @@
-# hello-world
-starting code
+let us make a complete change to this file...
 
-Ok, this is the nice learning experience about the github code repository!! 
+interesting to note how github works!!
+
+will add some C# code to this as well...
